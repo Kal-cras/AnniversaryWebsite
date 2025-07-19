@@ -5,6 +5,30 @@
       color: #333;
     }
 
+    .romance{
+      text-align: center; 
+      margin-top: 20px;
+    }
+
+    .audio-inline {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    }
+
+  .audio-inline p {
+    margin: 0;
+    font-weight: bold;
+  } 
+
+  .audio-inline audio {
+    margin: 0;
+    height: 30px;
+  }
+
+
     .hero {
       text-align: center;
       padding: 4rem 2rem;
